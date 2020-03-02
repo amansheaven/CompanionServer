@@ -1,0 +1,6 @@
+{"_default": {
+    "1": {"name": "Lowe's Speciality", "srtid": "DEL007", "star": "4", "location": "Delhi", "tags": ["Clothing", "Grocery", "Electronics", "Cosmetics", "Furniture", "Pet Care"],"bg":"static/Delhi.png"},
+    "2": {"name": "Lowe's Home", "srtid": "DEF002", "star": "3", "location": "Delhi", "tags": ["Furnishing", "Home Needs", "Fitness", "Gardening"],"bg":"static/Delhi.png"},
+    "3": {"name": "Lowe's Speciality", "srtid": "BNG004", "star": "5", "location": "Banglore", "tags": ["Furnishing", "Home Needs", "Fitness", "Gardening", "Electronics", "Pet Care"],"bg":"static/Delhi.png"}
+}
+}

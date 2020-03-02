@@ -1,0 +1,86 @@
+{
+    "_default": {
+      "1001": {
+        "name": "Red Gear K320 Keyboard",
+        "price": 1800,
+        "img": "1001.jpg",
+        "availability": [
+          "DEF002",
+          "DEL003",
+          "BNG004",
+          "DEL009"
+        ],
+        "similar": [
+          1002,
+          1003,
+          1004
+        ],
+        "choice": [
+          "Red Keys",
+          "Green Keys",
+          "White Keys"
+        ],
+        "desp": "Redgear Blaze membrane keyboard with 104 keys. Keystrokes - 10 million. 50IPS max speed and 10g acceleration. 5 million click lifetime."
+      },
+      "1002": {
+        "name": "Logitech M100 Keyboard",
+        "price": 1300,
+        "img": "1002.jpg",
+        "availability": [
+          "DEL003",
+          "BNG004",
+          "DEL009"
+        ],
+        "similar": [
+          1001,
+          1003,
+          1004
+        ],
+        "choice": [
+          "Metal Keys",
+          "Plastic Keys"
+        ],
+        "desp": "Logitech Keyboard K120. A better typing experience that's built to last. You’ll enjoy a comfortable and quiet typing experience thanks to the low-profile keys that barely make a sound, and standard layout with full-size F-keys and number pad."
+      },
+      "1003": {
+        "name": "Microsoft D21 Keyboard",
+        "price": 1500,
+        "img": "1003.jpg",
+        "availability": [
+          "DEL112",
+          "BNG004",
+          "DEL009"
+        ],
+        "similar": [
+          1001,
+          1002,
+          1004
+        ],
+        "choice": [
+          "Metal Keys",
+          "Plastic Keys"
+        ],
+        "desp": "This keyboard combines a spill-resistant keyboard with all the features you need and more with Microsoft quality and reliability. Enjoy plug-and-play setup; Windows Vista integration, Microsoft Xbox 360 compatibility."
+      },
+      "1004": {
+        "name": "Dell T 90 Keyboard",
+        "price": 1700,
+        "img": "1004.jpg",
+        "availability": [
+          "DEL001",
+          "BNG004",
+          "DEF001"
+        ],
+        "similar": [
+          1001,
+          1002,
+          1003
+        ],
+        "choice": [
+          "USB",
+          "Wireless"
+        ],
+        "desp": "The Dell Quiet Key Keyboard is designed ergonomically to maximize your comfort and productivity with sturdy and robust quiet key design for everyday business and personal usage. This keyboard features a standard set of 104 keys and its durability has been constructed for a long life span of repetitive use. "
+      }
+    }
+  }
